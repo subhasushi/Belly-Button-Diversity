@@ -1,6 +1,6 @@
 # import necessary libraries
-import pandas as pd
-import numpy as np
+# import pandas as pd
+# import numpy as np
 
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
